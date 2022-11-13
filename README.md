@@ -66,6 +66,7 @@ We will be covering content from:
 * [https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) 
 * [https://doodad.dev/dither-me-this/](https://doodad.dev/dither-me-this/) 
 * [https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types) 
+* [https://insidesamfox.wustl.edu/communications/digital-accessibility/describing-art-design-images/](https://insidesamfox.wustl.edu/communications/digital-accessibility/describing-art-design-images/)
 
 
 #### 3 - Putting It all Together: Building Your Portfolio
