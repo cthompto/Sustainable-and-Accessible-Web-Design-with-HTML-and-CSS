@@ -116,15 +116,15 @@ For this project your grade will be derived as follows: **50%** from your final 
 
 Below are some examples of sustainable and/or low tech websites:
 
-My (Chelsea Thompto's) portfolio website: [https://chelsea.technology/](https://chelsea.technology/)
+* My (Chelsea Thompto's) portfolio website: [https://chelsea.technology/](https://chelsea.technology/)
 
-A web project running on and about solar power: [http://solarprotocol.net/](http://solarprotocol.net/) 
+* A web project running on and about solar power: [http://solarprotocol.net/](http://solarprotocol.net/) 
 
-A magazine with a solar powered online edition: [http://solar.lowtechmagazine.com/](http://solar.lowtechmagazine.com/)
+* A magazine with a solar powered online edition: [http://solar.lowtechmagazine.com/](http://solar.lowtechmagazine.com/)
 
-A sustainable website about making sustainable websites: [https://sustainablewebdesign.org/](https://sustainablewebdesign.org/) 
+* A sustainable website about making sustainable websites: [https://sustainablewebdesign.org/](https://sustainablewebdesign.org/) 
 
-A list of contemporary low tech (Web 1.0) websites: [https://emreed.net/LowTech_Directory.html](https://emreed.net/LowTech_Directory.html) 
+* A list of contemporary low tech (Web 1.0) websites: [https://emreed.net/LowTech_Directory.html](https://emreed.net/LowTech_Directory.html) 
 
 
 ### Online Tools: 
@@ -134,49 +134,49 @@ Below are some online tools for helping you explore the current state of web sus
 
 #### Testing the Environmental Impact Of Existing Websites:
 
-Test live websites for their climate impact: [https://www.websitecarbon.com/](https://www.websitecarbon.com/)
+* Test live websites for their climate impact: [https://www.websitecarbon.com/](https://www.websitecarbon.com/)
 
-Test live websites for their climate impact: [https://ecograder.com/](https://ecograder.com/)
+* Test live websites for their climate impact: [https://ecograder.com/](https://ecograder.com/)
 
 
 #### Accessibility Tools:
 
-Test color contrast: [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/) 
+* Test color contrast: [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/) 
 
-WAVE (comprehensive accessibility analysis tool): [https://wave.webaim.org/extension/](https://wave.webaim.org/extension/)  
+* WAVE (comprehensive accessibility analysis tool): [https://wave.webaim.org/extension/](https://wave.webaim.org/extension/)  
 
 
 #### Dithering Images:
 
-Online Dithering Tool: [https://ditherit.com/](https://ditherit.com/)
+* Online Dithering Tool: [https://ditherit.com/](https://ditherit.com/)
 
-Online Dithering Tool: [https://doodad.dev/dither-me-this/](https://doodad.dev/dither-me-this/) 
+* Online Dithering Tool: [https://doodad.dev/dither-me-this/](https://doodad.dev/dither-me-this/) 
 
 
 #### Other Image Tools: 
 
-Creating patterned backgrounds using only CSS: [http://www.patternify.com/](http://www.patternify.com/) 
+* Creating patterned backgrounds using only CSS: [http://www.patternify.com/](http://www.patternify.com/) 
 
-Converting images to Base 64: [https://www.w3docs.com/tools/image-base64](https://www.w3docs.com/tools/image-base64) 
+* Converting images to Base 64: [https://www.w3docs.com/tools/image-base64](https://www.w3docs.com/tools/image-base64) 
 
-Convertings Images to SVG: [https://image.online-convert.com/convert-to-svg](https://image.online-convert.com/convert-to-svg) 
+* Convertings Images to SVG: [https://image.online-convert.com/convert-to-svg](https://image.online-convert.com/convert-to-svg) 
 
-Converting Images to WebP: [https://cloudconvert.com/webp-converter](https://cloudconvert.com/webp-converter) 
+* Converting Images to WebP: [https://cloudconvert.com/webp-converter](https://cloudconvert.com/webp-converter) 
 
 
 ### Further Reading:
 
 Below are links to more readings related to sustainable web development.
 
-[https://www.wholegraindigital.com/blog/sustainable-web-design/](https://www.wholegraindigital.com/blog/sustainable-web-design/)
+* [https://www.wholegraindigital.com/blog/sustainable-web-design/](https://www.wholegraindigital.com/blog/sustainable-web-design/)
 
-[https://vanillajspodcast.com/web-development-and-climate-change/](https://vanillajspodcast.com/web-development-and-climate-change/) 
+* [https://vanillajspodcast.com/web-development-and-climate-change/](https://vanillajspodcast.com/web-development-and-climate-change/) 
 
-[https://web.dev/fast/#introduction](https://web.dev/fast/#introduction) 
+* [https://web.dev/fast/#introduction](https://web.dev/fast/#introduction) 
 
-[https://gerrymcgovern.com/books/world-wide-waste/](https://gerrymcgovern.com/books/world-wide-waste/) 
+* [https://gerrymcgovern.com/books/world-wide-waste/](https://gerrymcgovern.com/books/world-wide-waste/) 
 
-[https://branch.climateaction.tech/issues/issue-1/hands-on-sustainable-web-design/](https://branch.climateaction.tech/issues/issue-1/hands-on-sustainable-web-design/)
+* [https://branch.climateaction.tech/issues/issue-1/hands-on-sustainable-web-design/](https://branch.climateaction.tech/issues/issue-1/hands-on-sustainable-web-design/)
 
 
 <!-- Footnotes themselves at the bottom. -->
