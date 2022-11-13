@@ -35,9 +35,8 @@ Materials you will need:
 
 
 * A free GitHub[^6] account.
+
 We will be covering content from:
-
-
 
 * [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 * [https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head)
