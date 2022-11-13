@@ -116,6 +116,8 @@ For this project your grade will be derived as follows: **50%** from your final 
 
 Below are some examples of sustainable and/or low tech websites:
 
+My (Chelsea Thompto's) portfolio website: [https://chelsea.technology/](https://chelsea.technology/)
+
 A web project running on and about solar power: [http://solarprotocol.net/](http://solarprotocol.net/) 
 
 A magazine with a solar powered online edition: [http://solar.lowtechmagazine.com/](http://solar.lowtechmagazine.com/)
